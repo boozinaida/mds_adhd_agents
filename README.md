@@ -28,7 +28,7 @@ POC-проект для создания локального AI-агента н
 Проверить, что Engine running и что включён режим Linux containers.
 
 ### 1. Клонировать репозиторий
-
+В git bash
 ```bash
 git clone https://github.com/boozinaida/mds_adhd_agents.git
 cd mds_adhd_agents
