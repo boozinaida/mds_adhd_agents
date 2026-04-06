@@ -1,5 +1,7 @@
 langgraph
 langchain
 langchain-ollama
+python-dotenv
 pydantic
-jupyterlab
+google-api-python-client
+google-auth
