@@ -21,19 +21,11 @@ POC-проект для создания локального AI-агента н
 - langchain-ollama
 - Pydantic
 
-## Структура проекта
 
-```text
-.
-├── docker-compose.yml
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── notebooks/
-    └── 01_langgraph_gemma3_1b.ipynb
-```
+## Старт
 
-## Быстрый старт
+### 0. Запустить Docker Desktop
+Проверить, что Engine running и что включён режим Linux containers.
 
 ### 1. Клонировать репозиторий
 
