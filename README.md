@@ -38,8 +38,8 @@ POC-проект для создания локального AI-агента н
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <URL_репозитория>
-cd <ИМЯ_ПАПКИ>
+git clone https://github.com/boozinaida/mds_adhd_agents.git
+cd mds_adhd_agents
 ```
 
 ### 2. Запустить окружение
